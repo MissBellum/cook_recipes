@@ -1,2 +1,3 @@
-cook recipes
-recipe book for html practice
+Cook Recipes
+
+    Recipe book for html practice
